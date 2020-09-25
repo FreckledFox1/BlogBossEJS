@@ -1,2 +1,1 @@
-# BlogBossEJS
-Angela Yu's Blog Boss EJS Challenge 
+# Blog-Boss-EJS
